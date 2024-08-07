@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="398px" height="439px" viewBox="0 0 398 439" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Artwork</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.9%" y="-3.5%" width="111.4%" height="113.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-5" dy="19" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.207843137   0 0 0 0 0.329411765  0 0 0 0.131029212 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="1.44555727" y="1.19659428" width="209.330927" height="272.691014" rx="5.2734375"></rect>
+        <filter x="-7.1%" y="-10.7%" width="114.1%" height="131.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-5" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.207843137   0 0 0 0 0.329411765  0 0 0 0.131029212 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="20.3812967%" x2="126.066672%" y2="77.0096752%" id="linearGradient-5">
+            <stop stop-color="#9D5331" offset="0%"></stop>
+            <stop stop-color="#694545" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-28.4%" y="-3.4%" width="170.6%" height="113.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="2" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.207843137   0 0 0 0 0.329411765  0 0 0 0.131029212 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="20.6300455" height="30.935902" rx="10.3150227"></rect>
+        <polygon id="path-9" points="0 0 20.6300455 0 10.3150227 30.935902"></polygon>
+        <polygon id="path-11" points="0 0 10.3150227 0 10.3150227 30.935902"></polygon>
+        <rect id="path-13" x="0" y="0" width="20.6300455" height="127.18093"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-117.000000, -108.000000)">
+            <g id="Artwork" transform="translate(102.000000, 80.000000)">
+                <g id="paper" transform="translate(92.877417, 116.015625)">
+                    <g id="Group-4" filter="url(#filter-1)" transform="translate(149.956334, 166.851594) rotate(-22.000000) translate(-149.956334, -166.851594) translate(44.456334, 29.742219)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Rectangle-2" fill="#FFFFFF" xlink:href="#path-2"></use>
+                        <g id="Group-5" mask="url(#mask-3)">
+                            <g transform="translate(25.214500, 33.609375)">
+                                <rect id="Rectangle-3" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="58.1997087" y="9.56307977" width="96.6555833" height="8.40234375" rx="4.20117187"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="57.7473161" y="27.5047947" width="54.6314167" height="8.40234375" rx="4.20117187"></rect>
+                                <rect id="Rectangle-4" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="1.5350334" y="1.11491697" width="44.125375" height="44.1123047" rx="14.0625"></rect>
+                                <path d="M24.7427562,27.5291711 C25.358951,28.1451833 26.1642592,28.4524017 26.9711434,28.4524017 C27.7780275,28.4524017 28.5833358,28.1451833 29.1995305,27.5291711 L44.958987,11.7743827 C46.1898005,10.5439337 46.1898005,8.5493775 44.958987,7.31892853 C43.7281734,6.08847955 41.7330262,6.08847955 40.5022127,7.31892853 L26.9711434,20.8444144 L19.7438566,13.6208439 C18.5130431,12.3903949 16.5178959,12.3903949 15.2870823,13.6208439 C14.0562688,14.8512929 14.0562688,16.8458491 15.2870823,18.076298 L24.7427562,27.5291711 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <g id="Group-5-Copy" mask="url(#mask-3)">
+                            <g transform="translate(25.389103, 94.859243)">
+                                <rect id="Rectangle-3" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="58.1997087" y="9.56307977" width="96.6555833" height="8.40234375" rx="4.20117188"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="57.7473161" y="27.5047947" width="54.6314167" height="8.40234375" rx="4.20117188"></rect>
+                                <rect id="Rectangle-4" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="1.5350334" y="1.11491697" width="44.125375" height="44.1123047" rx="14.0625"></rect>
+                                <path d="M24.746009,27.5211227 C25.3622037,28.1371349 26.1675119,28.4443533 26.9743961,28.4443533 C27.7812803,28.4443533 28.5865885,28.1371349 29.2027832,27.5211227 L44.9622397,11.7663343 C46.1930533,10.5358853 46.1930533,8.54132907 44.9622397,7.31088009 C43.7314262,6.08043112 41.736279,6.08043112 40.5054654,7.31088009 L26.9743961,20.8363659 L19.7471094,13.6127955 C18.5162958,12.3823465 16.5211486,12.3823465 15.2903351,13.6127955 C14.0595215,14.8432444 14.0595215,16.8378006 15.2903351,18.0682496 L24.746009,27.5211227 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <g id="Group-5-Copy-2" mask="url(#mask-3)">
+                            <g transform="translate(25.566178, 156.100747)">
+                                <rect id="Rectangle-3" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="58.1997087" y="9.56307977" width="96.6555833" height="8.40234375" rx="4.20117188"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="57.7473161" y="27.5047947" width="54.6314167" height="8.40234375" rx="4.20117187"></rect>
+                                <rect id="Rectangle-4" fill="#1B3554" fill-rule="evenodd" opacity="0.200000003" x="1.5350334" y="1.11491697" width="44.125375" height="44.1123047" rx="14.0625"></rect>
+                                <path d="M24.7467896,27.521438 C25.3629844,28.1374502 26.1682926,28.4446686 26.9751768,28.4446686 C27.782061,28.4446686 28.5873692,28.1374502 29.2035639,27.521438 L44.9630204,11.7666496 C46.193834,10.5362006 46.193834,8.54164439 44.9630204,7.31119542 C43.7322069,6.08074644 41.7370597,6.08074644 40.5062461,7.31119542 L26.9751768,20.8366813 L19.74789,13.6131108 C18.5170765,12.3826618 16.5219293,12.3826618 15.2911157,13.6131108 C14.0603022,14.8435598 14.0603022,16.838116 15.2911157,18.0685649 L24.7467896,27.521438 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="coffee" filter="url(#filter-4)" transform="translate(93.665717, 81.963801) rotate(22.000000) translate(-93.665717, -81.963801) translate(15.665717, 25.963801)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="-2.38031816e-13" y="46.2128906" width="50.429" height="21.0058594" rx="10.5029297"></rect>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="10.546875" fill="url(#linearGradient-5)" cx="99.8073958" cy="55.6655273" rx="55.6820208" ry="55.6655273"></ellipse>
+                </g>
+                <g id="pencil" filter="url(#filter-6)" transform="translate(352.602530, 99.550414) rotate(-43.000000) translate(-352.602530, -99.550414) translate(342.052530, 12.298994)">
+                    <g id="Rectangle-38-Copy-4">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Mask" fill="#FF6363" xlink:href="#path-7"></use>
+                        <rect fill="#FF4D4D" mask="url(#mask-8)" x="-10.3150227" y="-6.87464489" width="20.6300455" height="30.935902" rx="10.3150227"></rect>
+                    </g>
+                    <g id="Rectangle-38-Copy-3" transform="translate(0.000000, 140.930220)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFEAB8" xlink:href="#path-9"></use>
+                        <polygon fill="#6A6A6A" mask="url(#mask-10)" points="0 17.1866122 20.6300455 17.1866122 10.3150227 48.1225142"></polygon>
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <use id="Mask-Copy" fill="#E5D2A6" opacity="0.497622283" style="mix-blend-mode: multiply;" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Rectangle-38-Copy-2" transform="translate(0.000000, 13.749290)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFD87A" xlink:href="#path-13"></use>
+                        <rect fill="#FFCB4F" mask="url(#mask-14)" x="-10.3150227" y="0" width="20.6300455" height="127.18093"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

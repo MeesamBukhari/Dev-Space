@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-2" transform="translate(-582.000000, -72.000000)" stroke="#000000" stroke-width="3">
+            <g id="Group" transform="translate(582.000000, 72.000000)">
+                <g id="Light">
+                    <path d="M36.9,31.8791667 C41.0666667,31.4625 45.4583333,31.25 50,31.25 C76.4625,31.25 97.9166667,38.7125 97.9166667,47.9166667 C97.9166667,57.1208333 76.4625,64.5833333 50,64.5833333 C23.5375,64.5833333 2.08333333,57.1208333 2.08333333,47.9166667 C2.08333333,43.75 6.4625,39.9541667 13.7,37.0375" id="Shape"></path>
+                    <ellipse id="Oval" cx="50" cy="47.9166667" rx="29.1666667" ry="8.33333333"></ellipse>
+                    <path d="M77.0833333,68.75 C77.0833333,73.3541667 66.1083333,77.0833333 50,77.0833333 C33.8916667,77.0833333 22.9166667,73.3541667 22.9166667,68.75" id="Shape"></path>
+                    <path d="M77.0833333,97.9166667 L77.0833333,61.6666667" id="Shape"></path>
+                    <path d="M22.9166667,61.6666667 L22.9166667,97.9166667" id="Shape"></path>
+                    <path d="M2.08333333,6.25 L10.4166667,6.25" id="Shape"></path>
+                    <path d="M6.25,2.08333333 L6.25,10.4166667" id="Shape"></path>
+                    <path d="M81.25,25 L89.5833333,25" id="Shape"></path>
+                    <path d="M85.4166667,20.8333333 L85.4166667,29.1666667" id="Shape"></path>
+                    <path d="M43.75,10.4166667 L52.0833333,10.4166667" id="Shape"></path>
+                    <path d="M47.9166667,6.25 L47.9166667,14.5833333" id="Shape"></path>
+                    <polygon id="Shape" points="25 35.4166667 29.1666667 27.0833333 37.5 22.9166667 29.1666667 18.75 25 10.4166667 20.8333333 18.75 12.5 22.9166667 20.8333333 27.0833333"></polygon>
+                    <path d="M97.9166667,2.08333333 L50,22.9166667" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-2" transform="translate(-752.000000, -72.000000)" stroke="#000000" stroke-width="3">
+            <g id="Group" transform="translate(752.000000, 72.000000)">
+                <g id="Light">
+                    <path d="M2.08333333,97.9166667 L2.08333333,2.08333333" id="Shape"></path>
+                    <path d="M2.08333333,77.1291667 L15.5166667,72.9958333 C26.7754357,69.5341489 38.9795543,71.0871795 49.0125,77.2583333 C58.7987005,83.2831522 70.6669562,84.9161903 81.7166667,81.7583333 L94.4416667,78.1208333 C96.4983396,77.5345302 97.9167079,75.6552771 97.9166667,73.5166667 L97.9166667,18.6833333 C97.9091978,17.1839045 97.2002576,15.7744255 96.000896,14.8744953 C94.8015344,13.9745651 93.2500563,13.6879593 91.8083333,14.1 L81.7166667,16.9833333 C70.6666586,20.1369896 58.8001215,18.5041879 49.0125,12.4833333 C38.9841719,6.3009689 26.7780164,4.74008721 15.5166667,8.2 L2.08333333,12.3333333 L2.08333333,77.1291667 Z" id="Shape"></path>
+                    <polyline id="Shape" points="64.5833333 31.25 77.0833333 43.75 64.5833333 56.25"></polyline>
+                    <polyline id="Shape" points="35.4166667 31.25 22.9166667 43.75 35.4166667 56.25"></polyline>
+                    <path d="M54.1666667,31.25 L45.8333333,56.25" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
